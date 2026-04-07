@@ -23,6 +23,9 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/YogeshSonkar76352/YogeshSonkar76352/output/github-contribution-grid-snake.svg)
+
+----
 ## 🔥 Streak Stats
 ![Streak](https://streak-stats.demolab.com?user=YogeshSonkar76352&theme=tokyonight)
 
