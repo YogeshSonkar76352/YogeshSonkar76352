@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Yogesh Sonkar 
 
-<!--
-**YogeshSonkar76352/YogeshSonkar76352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Developer | Learning Full Stack Development  
+💻 Currently working on JavaScript, React & Node.js  
+🌱 Exploring Open Source & building cool projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Backend:** Python, Django, SQLite
+- **Frontend:** React, SCSS, Monaco Editor
+- **Analytics:** Power BI
+- **Deployment:** GitHub Actions
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YogeshSonkar76352&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YogeshSonkar76352&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect
+[LinkedIn](#) | [Portfolio](#) | [Email](#)
+
+---
+
+## 🚀 Getting Started
+```bash
+# Clone the repository
+git clone https://github.com/YogeshSonkar76352/Yogesh76352.git
+
+# Navigate into the project
+cd Yogesh76352
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the server
+python manage.py runserver
