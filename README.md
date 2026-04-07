@@ -1,25 +1,36 @@
-# Hi 👋 I'm Yogesh Sonkar 
+# 💫 Hi 👋 I'm Yogesh
 
-🚀 Passionate Developer | Learning Full Stack Development  
-💻 Currently working on JavaScript, React & Node.js  
-🌱 Exploring Open Source & building cool projects  
+🚀 Full Stack Developer in Progress  
+💻 Love building Web Apps & Projects  
+🔥 Passionate about JavaScript & MERN Stack  
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Backend:** Python, Django, SQLite
-- **Frontend:** React, SCSS, Monaco Editor
-- **Analytics:** Power BI
-- **Deployment:** GitHub Actions
+## 🌐 Tech Stack
+![HTML](https://img.shields.io/badge/HTML-ff5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YogeshSonkar76352&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YogeshSonkar76352&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YogeshSonkar76352&layout=compact&theme=radical)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YogeshSonkar76352&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![Streak](https://streak-stats.demolab.com?user=YogeshSonkar76352&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+![Views](https://komarev.com/ghpvc/?username=YogeshSonkar76352&color=blue)
+
 
 ---
 
