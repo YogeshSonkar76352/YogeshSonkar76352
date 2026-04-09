@@ -38,7 +38,9 @@
 ---
 
 ## 📫 Connect
-[LinkedIn](#) | [Portfolio](#) | [Email](#)
+🔗 LinkedIn: https://linkedin.com/in/yogesh-sonkar2002
+📧 Email: [yogesh.sonkar.in@gmail.com](mailto:yogesh.sonkar.in@gmail.com)
+
 
 ---
 
