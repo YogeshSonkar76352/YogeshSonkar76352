@@ -38,8 +38,9 @@
 ---
 
 ## 📫 Connect
-🔗 LinkedIn: https://linkedin.com/in/yogesh-sonkar2002
-📧 Email: [yogesh.sonkar.in@gmail.com](mailto:yogesh.sonkar.in@gmail.com)
+🔗 LinkedIn: https://linkedin.com/in/yogesh-sonkar2002  
+📧 Email: yogesh.sonkar.in@gmail.com  
+📸 Instagram: https://www.instagram.com/yogesh.sonkar.in  
 
 
 ---
