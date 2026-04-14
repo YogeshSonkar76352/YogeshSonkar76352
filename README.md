@@ -7,11 +7,20 @@
 ---
 
 ## 🌐 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-ff5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=probot&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge&logo=deezer&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2C2C2C?style=for-the-badge&logo=opencv&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-FF4500?style=for-the-badge&logo=keras&logoColor=white)
+![Image Classification](https://img.shields.io/badge/Image%20Classification-4682B4?style=for-the-badge&logo=googlephotos&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-800080?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ---
 
